@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "unitCost": 399.99
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "unitCost": 899.99
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "unitCost": 79.99
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "unitCost": 199.99
+    },
+    {
+      "id": 5,
+      "name": "Tablet",
+      "unitCost": 299.99
+    },
+    {
+      "name": "buds",
+      "unitCost": 100,
+      "id": 6
+    },
+    {
+      "name": "tv",
+      "unitCost": 200,
+      "id": 7
+    },
+    {
+      "name": "box",
+      "unitCost": 11,
+      "id": 8
+    }
+  ]
+}
